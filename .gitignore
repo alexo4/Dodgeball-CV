@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Dodgeball CV: downloaded videos
+videos/
+
+# Extracted frames and datasets
+datasets/
